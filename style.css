@@ -1,0 +1,54 @@
+h1 
+{
+  color: pink;
+}
+.header
+{
+    border-style:ridge;
+    display: flexbox;
+    font-size: 60px ;
+justify-content: space-between;
+background-color: hotpink;
+font-style: oblique;
+font-size: large;
+}
+.menu
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: wheat;
+    font-size: 60px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: white;
+}
+
+.grid
+{
+    border-style:dotted;
+border-radius: 50px;
+font-size: large;
+background-color: wheat;
+
+}
+.origami
+{
+    border-radius: 50px;
+    background-color: peachpuff
+    width: 310px;
+    font-family: fantasy ;
+
+}
+
+.bodyimg
+{
+    font-size: large;
+    display:inline-flexbox;
+    
+justify-content: space-between;
+font-size: 20px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: white;
+    background-color: wheat;
+}
